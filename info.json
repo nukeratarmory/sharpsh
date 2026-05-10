@@ -1,7 +1,6 @@
 {
     "name": "SharpSH",
     "version": "0.0.1",
-    "uuid": "e7f6a5b4-c3d2-4e1f-0a9b-4c5d6e7f8a9b",
     "command": "sharp-sh",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/sharpsh",
